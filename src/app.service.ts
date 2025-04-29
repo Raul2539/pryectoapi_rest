@@ -6,7 +6,7 @@ export class AppService {
     return '<h1> HOLA MUNDO <h1>';
   }
   getAllPokemon(): string {
-    return '<h1> ACA ESTA TU LISTA WEY <h1>';
+    return '<h1> ACA ESTA TU LISTA <h1>';
   }
   getPoesia(): string {
     return '<h1>En Orihuela, su pueblo y el mío, se me ha muerto como del rayo Ramón Sijé, con quien tanto quería.<h1>';
